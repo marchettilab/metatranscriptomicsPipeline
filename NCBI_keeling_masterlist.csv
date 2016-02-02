@@ -1,0 +1,550 @@
+tid,phylum.R,class.R,order.R,family.R,genus.R,species.R,keeling.R
+242541,no rank,no rank,Longamoebia,no rank,Mayorella,no rank,Amoeboa
+340204,Apicomplexa,Gregarinasina,Eugregarinorida,Lecudinidae,Lankesteria,no rank,Apicomplexa
+414004,Thaumarchaeota,no rank,Cenarchaeales,Cenarchaeaceae,Cenarchaeum,Cenarchaeum symbiosum,Archaea
+436308,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,Nitrosopumilus maritimus,Archaea
+859350,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,Candidatus Nitrosopumilus salaria,Archaea
+1001994,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Candidatus Nitrosoarchaeum,Candidatus Nitrosoarchaeum koreensis,Archaea
+1027373,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,no rank,Archaea
+1027374,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,no rank,Archaea
+1229908,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,Candidatus Nitrosopumilus koreensis,Archaea
+284592,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Debaryomyces,Debaryomyces hansenii,Ascomycetes
+1140,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,Synechococcus elongatus,Bacteria
+32051,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,no rank,Bacteria
+50743,Bacteroidetes,no rank,no rank,no rank,no rank,no rank,Bacteria
+52598,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,no rank,Bacteria
+58051,Proteobacteria,Gammaproteobacteria,Alteromonadales,Moritellaceae,Moritella,no rank,Bacteria
+59919,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+59920,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+59922,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+64471,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,no rank,Bacteria
+74546,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+74547,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+84588,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,no rank,Bacteria
+89187,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,Roseovarius nubinhibens,Bacteria
+93058,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+110662,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,no rank,Bacteria
+146891,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+156586,Bacteroidetes,Flavobacteriia,no rank,no rank,no rank,no rank,Bacteria
+167539,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+167542,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+167546,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+167555,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+198252,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,Candidatus Pelagibacter,no rank,Bacteria
+203122,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Saccharophagus,Saccharophagus degradans,Bacteria
+207954,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Neptuniibacter,no rank,Bacteria
+216432,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Croceibacter,Croceibacter atlanticus,Bacteria
+228405,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Hyphomonadaceae,Hyphomonas,Hyphomonas neptunium,Bacteria
+243090,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Rhodopirellula,Rhodopirellula baltica,Bacteria
+246200,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ruegeria,Ruegeria pomeroyi,Bacteria
+247633,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Spongiibacteraceae,no rank,no rank,Bacteria
+247634,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,no rank,no rank,Bacteria
+247639,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,no rank,no rank,Bacteria
+252305,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicola,Oceanicola batsensis,Bacteria
+269084,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,Synechococcus elongatus,Bacteria
+290400,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Jannaschia,no rank,Bacteria
+292414,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ruegeria,no rank,Bacteria
+296591,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,no rank,Bacteria
+298386,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium profundum,Bacteria
+312284,Actinobacteria,Actinobacteria,no rank,no rank,no rank,no rank,Bacteria
+313589,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Janibacter,no rank,Bacteria
+313590,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Dokdonia,no rank,Bacteria
+313594,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,Polaribacter irgensii,Bacteria
+313596,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Robiginitalea,Robiginitalea biformata,Bacteria
+313598,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Polaribacter,no rank,Bacteria
+313603,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Maribacter,no rank,Bacteria
+313606,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Microscilla,Microscilla marina,Bacteria
+313628,Lentisphaerae,Lentisphaeria,Lentisphaerales,Lentisphaeraceae,Lentisphaera,Lentisphaera araneosa,Bacteria
+314225,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Erythrobacter,Erythrobacter litoralis,Bacteria
+314231,Proteobacteria,Alphaproteobacteria,Rhizobiales,Aurantimonadaceae,Fulvimarina,Fulvimarina pelagi,Bacteria
+314232,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Loktanella,Loktanella vestfoldensis,Bacteria
+314256,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanicola,Oceanicola granulosus,Bacteria
+314261,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,Candidatus Pelagibacter,Candidatus Pelagibacter ubique,Bacteria
+314262,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,no rank,Bacteria
+314264,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,no rank,Bacteria
+314265,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pelagibaca,Pelagibaca bermudensis,Bacteria
+314266,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,no rank,Bacteria
+314267,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,no rank,Bacteria
+314270,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,no rank,no rank,Bacteria
+314271,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Maritimibacter,Maritimibacter alkaliphilus,Bacteria
+314277,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Marinomonas,no rank,Bacteria
+314282,Proteobacteria,Gammaproteobacteria,Alteromonadales,Psychromonadaceae,Psychromonas,no rank,Bacteria
+314283,Proteobacteria,Gammaproteobacteria,no rank,no rank,Reinekea,Reinekea blandensis,Bacteria
+314287,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Porticoccaceae,no rank,no rank,Bacteria
+314292,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium angustum,Bacteria
+314608,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella benthica,Bacteria
+316278,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,no rank,Bacteria
+316279,Cyanobacteria,no rank,Chroococcales,no rank,Synechococcus,no rank,Bacteria
+317655,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,Sphingopyxis alaskensis,Bacteria
+318161,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella denitrificans,Bacteria
+318167,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella frigidimarina,Bacteria
+323261,Proteobacteria,Gammaproteobacteria,Chromatiales,Chromatiaceae,Nitrosococcus,Nitrosococcus oceani,Bacteria
+325240,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Bacteria
+326442,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas haloplanktis,Bacteria
+331869,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+335992,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,Candidatus Pelagibacter,Candidatus Pelagibacter ubique,Bacteria
+338187,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Bacteria
+344747,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Gimesia,Gimesia maris,Bacteria
+357804,Proteobacteria,Gammaproteobacteria,Alteromonadales,Psychromonadaceae,Psychromonas,Psychromonas ingrahamii,Bacteria
+367336,Proteobacteria,Alphaproteobacteria,Rhodobacterales,no rank,no rank,no rank,Bacteria
+375451,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,Roseobacter denitrificans,Bacteria
+376686,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium johnsoniae,Bacteria
+383629,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Phaeobacter,Phaeobacter gallaeciensis,Bacteria
+383631,Proteobacteria,Betaproteobacteria,Methylophilales,no rank,no rank,no rank,Bacteria
+388399,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sagittula,Sagittula stellata,Bacteria
+388401,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,no rank,no rank,Bacteria
+388739,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,no rank,Bacteria
+391587,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Kordia,Kordia algicida,Bacteria
+391589,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,no rank,Bacteria
+391593,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseobacter,no rank,Bacteria
+391596,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Pedobacter,no rank,Bacteria
+391598,Bacteroidetes,Flavobacteriia,Flavobacteriales,no rank,no rank,no rank,Bacteria
+391615,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+391616,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Octadecabacter,Octadecabacter arcticus,Bacteria
+391624,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceanibulbus,Oceanibulbus indolifex,Bacteria
+391626,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Octadecabacter,Octadecabacter antarcticus,Bacteria
+393595,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Alcanivoracaceae,Alcanivorax,Alcanivorax borkumensis,Bacteria
+398580,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Dinoroseobacter,Dinoroseobacter shibae,Bacteria
+398720,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Leeuwenhoekiella,Leeuwenhoekiella blandensis,Bacteria
+399599,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Bacteria
+402882,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella,Shewanella baltica,Bacteria
+411154,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Gramella,Gramella forsetii,Bacteria
+417295,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+438746,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,no rank,no rank,Bacteria
+439493,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,Candidatus Pelagibacter,no rank,Bacteria
+439496,Proteobacteria,Alphaproteobacteria,Rhodobacterales,no rank,no rank,no rank,Bacteria
+487796,Bacteroidetes,Flavobacteriia,no rank,no rank,no rank,no rank,Bacteria
+487797,Bacteroidetes,Flavobacteriia,no rank,no rank,no rank,no rank,Bacteria
+488538,Proteobacteria,Alphaproteobacteria,no rank,no rank,Candidatus Puniceispirillum,Candidatus Puniceispirillum marinum,Bacteria
+566466,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+633131,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Thalassobium,no rank,Bacteria
+637616,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Methylophaga,Methylophaga thiooxydans,Bacteria
+684719,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+744985,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+751992,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,no rank,Bacteria
+859653,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+909943,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+913852,Bacteroidetes,Flavobacteriia,no rank,no rank,no rank,no rank,Bacteria
+926447,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,no rank,Bacteria
+939196,Actinobacteria,Actinobacteria,no rank,no rank,no rank,no rank,Bacteria
+939296,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939301,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939306,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+939316,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+939324,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+939346,Proteobacteria,Alphaproteobacteria,Pelagibacterales,Pelagibacteraceae,no rank,no rank,Bacteria
+939374,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939383,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939390,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939391,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939658,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939675,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939696,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+939745,Proteobacteria,Gammaproteobacteria,Oceanospirillales,no rank,no rank,no rank,Bacteria
+939909,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+939920,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+939921,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1007109,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007110,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007111,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007112,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007113,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007114,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007115,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007116,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007117,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007118,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007119,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007123,Marinimicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009412,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,no rank,Bacteria
+1009415,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009416,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009417,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009418,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009419,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009420,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009421,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009422,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009423,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009425,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1009695,Verrucomicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1009707,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1009708,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1009709,Proteobacteria,Alphaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1009710,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1009711,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1009712,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,no rank,Bacteria
+1009713,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,no rank,Bacteria
+1085623,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Glaciecola,Glaciecola nitratireducens,Bacteria
+1208365,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1242866,Euryarchaeota,Thermoplasmata,Thermoplasmatales,no rank,no rank,no rank,Bacteria
+1009413,Verrucomicrobia,NA,NA,NA,NA,NA,Bacteria
+1009414,Verrucomicrobia,NA,NA,NA,NA,NA,Bacteria
+2788,no rank,Bangiophyceae,Bangiales,Bangiaceae,Pyropia,no rank,Bangiophytes
+87120,Basidiomycota,Agaricomycetes,Boletales,Rhizopogonaceae,Rhizopogon,no rank,Basidiomycetes
+33652,no rank,no rank,Bicosoecida,Cafeteriaceae,no rank,no rank,Bicosoecids
+33653,no rank,no rank,Bicosoecida,Cafeteriaceae,Cafeteria,no rank,Bicosoecids
+3047,Chlorophyta,Chlorophyceae,Chlamydomonadales,Dunaliellaceae,Dunaliella,no rank,Chlorophycean
+3052,Chlorophyta,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Chlamydomonas,no rank,Chlorophycean
+3068,Chlorophyta,Chlorophyceae,Chlamydomonadales,Volvocaceae,Volvox,Volvox carteri,Chlorophycean
+51329,Chlorophyta,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Polytomella,no rank,Chlorophycean
+156131,Chlorophyta,no rank,Prasinococcales,no rank,Prasinococcus,no rank,Chlorophycean
+156133,Chlorophyta,no rank,Prasinococcales,no rank,Prasinoderma,no rank,Chlorophycean
+225041,Chlorophyta,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Chlamydomonas,no rank,Chlorophycean
+327068,Chlorophyta,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Chlamydomonas,no rank,Chlorophycean
+676789,Chlorophyta,no rank,Prasinococcales,no rank,Prasinoderma,no rank,Chlorophycean
+1034604,Chlorophyta,Chlorophyceae,Chlamydomonadales,Chlamydomonadaceae,Chlamydomonas,no rank,Chlorophycean
+41879,Chlorophyta,no rank,no rank,Pycnococcaceae,Pycnococcus,no rank,Prasinophytes
+41880,Chlorophyta,no rank,no rank,Pycnococcaceae,Pycnococcus,no rank,Prasinophytes
+44458,Chlorophyta,no rank,no rank,no rank,no rank,no rank,Prasinophytes
+88271,Chlorophyta,no rank,no rank,no rank,Picocystis,no rank,Prasinophytes
+156128,Chlorophyta,Nephroselmidophyceae,no rank,no rank,Nephroselmis,no rank,Prasinophytes
+464262,Chlorophyta,no rank,no rank,no rank,no rank,no rank,Prasinophytes
+1155430,Chlorophyta,Mamiellophyceae,no rank,no rank,no rank,no rank,Prasinophytes
+1461542,Chlorophyta,no rank,no rank,no rank,no rank,no rank,Prasinophytes
+1461543,Chlorophyta,no rank,no rank,no rank,no rank,no rank,Prasinophytes
+1461544,Chlorophyta,no rank,no rank,no rank,no rank,no rank,Prasinophytes
+1461546,Chlorophyta,no rank,no rank,no rank,no rank,no rank,Prasinophytes
+249345,Chlorophyta,Trebouxiophyceae,no rank,no rank,Picochlorum,no rank,Trebouxiophytes
+464278,Chlorophyta,Trebouxiophyceae,no rank,no rank,Picochlorum,no rank,Trebouxiophytes
+574566,Chlorophyta,Trebouxiophyceae,no rank,Coccomyxaceae,Coccomyxa,Coccomyxa subellipsoidea,Trebouxiophytes
+81532,no rank,no rank,Choanoflagellida,Acanthoecidae,no rank,no rank,Choanaflagellates
+81824,no rank,no rank,Choanoflagellida,Codonosigidae,Monosiga,no rank,Choanaflagellates
+2985,no rank,Chrysophyceae,Chromulinales,Chromulinaceae,no rank,no rank,Chrysophytes
+36769,no rank,Chrysophyceae,Chromulinales,Paraphysomonadaceae,no rank,no rank,Chrysophytes
+36770,no rank,Chrysophyceae,Chromulinales,Paraphysomonadaceae,Paraphysomonas,no rank,Chrysophytes
+37642,no rank,Chrysophyceae,Chromulinales,Paraphysomonadaceae,Paraphysomonas,no rank,Chrysophytes
+89044,no rank,Chrysophyceae,Chromulinales,Chromulinaceae,Spumella,no rank,Chrysophytes
+96789,no rank,Chrysophyceae,Chromulinales,Chromulinaceae,Chromulina,no rank,Chrysophytes
+98059,no rank,Chrysophyceae,Chromulinales,Dinobryaceae,no rank,no rank,Chrysophytes
+420556,no rank,Chrysophyceae,Chromulinales,Chromulinaceae,Ochromonas,no rank,Chrysophytes
+483371,no rank,Synurophyceae,Ochromonadales,Ochromonadaceae,no rank,no rank,Chrysophytes
+5936,no rank,Spirotrichea,Euplotida,Euplotidae,Moneuplotes,no rank,Ciliates
+5961,no rank,Heterotrichea,Heterotrichida,Blepharismidae,Blepharisma,no rank,Ciliates
+35107,no rank,Oligohymenophorea,Philasterida,Uronematidae,Uronema,no rank,Ciliates
+36767,no rank,Spirotrichea,Euplotida,Euplotidae,Euplotes,no rank,Ciliates
+40633,no rank,Heterotrichea,Heterotrichida,Condylostomatidae,Condylostoma,no rank,Ciliates
+46462,no rank,Oligohymenophorea,Philasterida,Orchitophryidae,Anophryoides,no rank,Ciliates
+49980,no rank,Heterotrichea,Heterotrichida,Climacostomidae,Climacostomum,no rank,Ciliates
+141414,no rank,Spirotrichea,Choreotrichida,Strombidinopsidae,Strombidinopsis,no rank,Ciliates
+151035,no rank,Spirotrichea,Euplotida,Euplotidae,Euplotes,no rank,Ciliates
+181622,no rank,Spirotrichea,Choreotrichida,Strombidinopsidae,Strombidinopsis,no rank,Ciliates
+182087,no rank,Spirotrichea,Tintinnida,Xystonellidae,Favella,no rank,Ciliates
+283647,no rank,Litostomatea,Cyclotrichida,Mesodiniidae,Mesodinium,no rank,Ciliates
+283649,no rank,Litostomatea,Cyclotrichida,Mesodiniidae,Myrionecta,no rank,Ciliates
+311385,no rank,Spirotrichea,Urostylida,Pseudokeronopsidae,no rank,no rank,Ciliates
+312017,no rank,Oligohymenophorea,Hymenostomatida,Tetrahymenidae,Tetrahymena,Tetrahymena thermophila,Ciliates
+342563,no rank,Heterotrichea,Heterotrichida,Fabreidae,Fabrea,no rank,Ciliates
+626734,no rank,Spirotrichea,Tintinnida,Rhabdonellidae,Schmidingerella,no rank,Ciliates
+665100,no rank,Litostomatea,Pleurostomatida,Litonotidae,Litonotus,no rank,Ciliates
+693140,no rank,Prostomatea,Prorodontida,Colepidae,Tiarina,no rank,Ciliates
+938130,no rank,Colpodea,Cyrtolophosidida,Platyophryidae,Platyophrya,no rank,Ciliates
+2898,no rank,Cryptophyta,Cryptomonadales,Cryptomonadaceae,Cryptomonas,no rank,Cryptophytes
+3032,no rank,Cryptophyta,Pyrenomonadales,Geminigeraceae,Hanusia,no rank,Cryptophytes
+31324,no rank,Cryptophyta,Cryptomonadales,Goniomonadaceae,Goniomonas,no rank,Cryptophytes
+46946,no rank,Cryptophyta,Pyrenomonadales,Geminigeraceae,Geminigera,no rank,Cryptophytes
+46947,no rank,Cryptophyta,Pyrenomonadales,Geminigeraceae,Geminigera,no rank,Cryptophytes
+46948,no rank,Cryptophyta,Pyrenomonadales,Pyrenomonadaceae,Rhodomonas,no rank,Cryptophytes
+52970,no rank,Cryptophyta,Pyrenomonadales,Pyrenomonadaceae,Rhodomonas,no rank,Cryptophytes
+77926,no rank,Cryptophyta,Cryptomonadales,Hemiselmidaceae,Hemiselmis,no rank,Cryptophytes
+77927,no rank,Cryptophyta,Cryptomonadales,Hemiselmidaceae,Hemiselmis,no rank,Cryptophytes
+77928,no rank,Cryptophyta,Pyrenomonadales,Geminigeraceae,Proteomonas,no rank,Cryptophytes
+195065,no rank,Cryptophyta,Pyrenomonadales,Chroomonadaceae,Chroomonas,no rank,Cryptophytes
+195067,no rank,Cryptophyta,Cryptomonadales,Goniomonadaceae,Goniomonas,no rank,Cryptophytes
+233186,no rank,Cryptophyta,Cryptomonadales,Cryptomonadaceae,Cryptomonas,no rank,Cryptophytes
+302021,no rank,Cryptophyta,Pyrenomonadales,Pyrenomonadaceae,Rhodomonas,no rank,Cryptophytes
+354590,no rank,Cryptophyta,Pyrenomonadales,Pyrenomonadaceae,Rhodomonas,no rank,Cryptophytes
+464988,no rank,Cryptophyta,Cryptomonadales,Hemiselmidaceae,Hemiselmis,no rank,Cryptophytes
+464990,no rank,Cryptophyta,Cryptomonadales,Hemiselmidaceae,Hemiselmis,no rank,Cryptophytes
+697907,no rank,Cryptophyta,no rank,no rank,no rank,no rank,Cryptophytes
+905079,no rank,Cryptophyta,Pyrenomonadales,Geminigeraceae,Guillardia,Guillardia theta,Cryptophytes
+280699,no rank,Bangiophyceae,Cyanidiales,Cyanidiaceae,Cyanidioschyzon,Cyanidioschyzon merolae,Cyanidiophytes
+2838,Bacillariophyta,Mediophyceae,Eupodiscales,Eupodiscaceae,Odontella,no rank,Diatoms
+2839,Bacillariophyta,Mediophyceae,Eupodiscales,Eupodiscaceae,Odontella,no rank,Diatoms
+2843,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Skeletonemataceae,Skeletonema,no rank,Diatoms
+2850,Bacillariophyta,Bacillariophyceae,Naviculales,Phaeodactylaceae,Phaeodactylum,no rank,Diatoms
+2856,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Cylindrotheca,no rank,Diatoms
+2857,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Nitzschia,no rank,Diatoms
+3005,Bacillariophyta,Coscinodiscophyceae,no rank,Rhizosoleniaceae,Rhizosolenia,no rank,Diatoms
+29205,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Stephanodiscaceae,Cyclotella,no rank,Diatoms
+33640,Bacillariophyta,Fragilariophyceae,Fragilariales,Fragilariaceae,Asterionellopsis,no rank,Diatoms
+33649,Bacillariophyta,Fragilariophyceae,Thalassionemales,Thalassionemataceae,Thalassionema,no rank,Diatoms
+35127,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+35128,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+37318,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+37319,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+44445,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+44447,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+49237,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+49249,Bacillariophyta,Mediophyceae,Lithodesmiales,Lithodesmiaceae,Ditylum,no rank,Diatoms
+49252,Bacillariophyta,Mediophyceae,Hemiaulales,Hemiaulaceae,Eucampia,no rank,Diatoms
+49265,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+67004,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+83371,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Detonula,no rank,Diatoms
+122233,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+159749,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+163515,Bacillariophyta,Coscinodiscophyceae,no rank,Leptocylindraceae,Leptocylindrus,no rank,Diatoms
+163516,Bacillariophyta,Coscinodiscophyceae,no rank,Leptocylindraceae,Leptocylindrus,no rank,Diatoms
+183588,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+186022,Bacillariophyta,Fragilariophyceae,Thalassionemales,Thalassionemataceae,Thalassionema,no rank,Diatoms
+186038,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Fragilariopsis,no rank,Diatoms
+186039,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Fragilariopsis,no rank,Diatoms
+186043,Bacillariophyta,Bacillariophyceae,no rank,Entomoneidaceae,Entomoneis,no rank,Diatoms
+202472,Bacillariophyta,Coscinodiscophyceae,no rank,Aulacoseiraceae,Aulacoseira,no rank,Diatoms
+210454,Bacillariophyta,Fragilariophyceae,Striatellales,Grammatophoraceae,Grammatophora,no rank,Diatoms
+210615,Bacillariophyta,Fragilariophyceae,Fragilariales,Fragilariaceae,Fragilariopsis,no rank,Diatoms
+210618,Bacillariophyta,Fragilariophyceae,Striatellales,Striatellaceae,Striatella,no rank,Diatoms
+216773,Bacillariophyta,Coscinodiscophyceae,Corethrales,Corethraceae,Corethron,no rank,Diatoms
+216777,Bacillariophyta,Coscinodiscophyceae,no rank,Rhizosoleniaceae,Proboscia,no rank,Diatoms
+216820,Bacillariophyta,Fragilariophyceae,Cyclophorales,Cyclophoraceae,Cyclophora,no rank,Diatoms
+216823,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Skeletonemataceae,Skeletonema,no rank,Diatoms
+218684,Bacillariophyta,Coscinodiscophyceae,Corethrales,Corethraceae,Corethron,no rank,Diatoms
+230516,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+240364,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+265536,Bacillariophyta,Bacillariophyceae,Naviculales,Amphipleuraceae,Amphiprora,no rank,Diatoms
+265543,Bacillariophyta,Mediophyceae,Cymatosirales,Cymatosiraceae,Minutocellus,no rank,Diatoms
+265551,Bacillariophyta,Fragilariophyceae,Fragilariales,Fragilariaceae,Synedropsis,no rank,Diatoms
+265554,Bacillariophyta,Bacillariophyceae,Thalassiophysales,Catenulaceae,Amphora,no rank,Diatoms
+265564,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+265572,Bacillariophyta,Mediophyceae,Cymatosirales,Cymatosiraceae,Extubocellulus,no rank,Diatoms
+265584,Bacillariophyta,Bacillariophyceae,Naviculales,Stauroneidaceae,Stauroneis,no rank,Diatoms
+267565,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Skeletonemataceae,Skeletonema,no rank,Diatoms
+267566,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Skeletonemataceae,Skeletonema,no rank,Diatoms
+267567,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Skeletonemataceae,Skeletonema,no rank,Diatoms
+267983,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Skeletonemataceae,Skeletonema,no rank,Diatoms
+374046,Bacillariophyta,Mediophyceae,Lithodesmiales,Lithodesmiaceae,Helicotheca,no rank,Diatoms
+385413,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+420259,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+420261,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+420275,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Attheyaceae,Attheya,no rank,Diatoms
+420281,Bacillariophyta,Coscinodiscophyceae,no rank,Rhizosoleniaceae,Proboscia,no rank,Diatoms
+420782,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+426623,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+426625,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+476440,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+476441,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+515479,Bacillariophyta,Fragilariophyceae,no rank,Licmophoraceae,Licmophora,no rank,Diatoms
+515487,Bacillariophyta,Coscinodiscophyceae,Melosirales,Stephanopyxidaceae,Stephanopyxis,no rank,Diatoms
+637379,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,Thalassiosira oceanica,Diatoms
+671091,Bacillariophyta,Coscinodiscophyceae,Coscinodiscales,Coscinodiscaceae,Coscinodiscus,no rank,Diatoms
+697910,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+913974,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Tryblionella,no rank,Diatoms
+947934,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+1003142,Bacillariophyta,Mediophyceae,Triceratiales,Triceratiaceae,Triceratium,no rank,Diatoms
+1049557,Bacillariophyta,Fragilariophyceae,Thalassionemales,Thalassionemataceae,Thalassiothrix,no rank,Diatoms
+1118495,Bacillariophyta,Coscinodiscophyceae,no rank,Rhizosoleniaceae,Dactyliosolen,no rank,Diatoms
+1158023,Bacillariophyta,Fragilariophyceae,Cyclophorales,Cyclophoraceae,Astrosyne,no rank,Diatoms
+1486917,Bacillariophyta,Bacillariophyceae,Naviculales,Naviculaceae,Craspedostauros,no rank,Diatoms
+35677,no rank,Pelagophyceae,Pelagomonadales,no rank,Pelagomonas,no rank,Dictyochophytes
+35679,no rank,Pelagophyceae,Pelagomonadales,no rank,Pelagococcus,no rank,Dictyochophytes
+35684,no rank,Dictyochophyceae,Pedinellales,no rank,Pseudopedinella,no rank,Dictyochophytes
+35687,no rank,Dictyochophyceae,Dictyochales,no rank,Dictyocha,no rank,Dictyochophytes
+38822,no rank,Dictyochophyceae,Pedinellales,no rank,Pteridomonas,no rank,Dictyochophytes
+44056,no rank,Pelagophyceae,Pelagomonadales,no rank,Aureococcus,no rank,Dictyochophytes
+44058,no rank,Pelagophyceae,Pelagomonadales,no rank,Aureoumbra,no rank,Dictyochophytes
+54406,no rank,Pelagophyceae,Sarcinochrysidales,Sarcinochrysidaceae,no rank,no rank,Dictyochophytes
+236786,no rank,Dictyochophyceae,Florenciellales,no rank,no rank,no rank,Dictyochophytes
+236787,no rank,Dictyochophyceae,Florenciellales,no rank,Florenciella,no rank,Dictyochophytes
+284809,no rank,Pelagophyceae,Sarcinochrysidales,Sarcinochrysidaceae,no rank,no rank,Dictyochophytes
+483369,no rank,Dictyochophyceae,Pedinellales,no rank,no rank,no rank,Dictyochophytes
+1034831,no rank,Dictyochophyceae,Rhizochromulinales,no rank,Rhizochromulina,no rank,Dictyochophytes
+1104430,no rank,Pelagophyceae,Sarcinochrysidales,Sarcinochrysidaceae,no rank,no rank,Dictyochophytes
+2866,Dinoflagellata,Dinophyceae,Gonyaulacales,Crypthecodiniaceae,Crypthecodinium,no rank,Dinoflagellates
+2916,Dinoflagellata,Dinophyceae,Gonyaulacales,Ceratiaceae,Neoceratium,no rank,Dinoflagellates
+2923,no rank,Dinophyceae,Peridiniales,Thoracosphaeraceae,Thoracosphaera,no rank,Dinoflagellates
+2925,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+2926,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+2932,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+2945,no rank,Dinophyceae,Prorocentrales,Prorocentraceae,Prorocentrum,no rank,Dinoflagellates
+2961,no rank,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Amphidinium,no rank,Dinoflagellates
+2966,no rank,Dinophyceae,Noctilucales,Noctilucaceae,Noctiluca,no rank,Dinoflagellates
+2969,no rank,Dinophyceae,Oxyrrhinales,Oxyrrhinaceae,Oxyrrhis,no rank,Dinoflagellates
+2972,no rank,Dinophyceae,Pyrocystales,Pyrocystaceae,Pyrocystis,no rank,Dinoflagellates
+39447,no rank,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Gymnodinium,no rank,Dinoflagellates
+39448,no rank,Dinophyceae,Prorocentrales,Prorocentraceae,Prorocentrum,no rank,Dinoflagellates
+39449,no rank,Dinophyceae,Prorocentrales,Prorocentraceae,Prorocentrum,no rank,Dinoflagellates
+39455,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+43686,no rank,Dinophyceae,Suessiales,Suessiaceae,Pelagodinium,no rank,Dinoflagellates
+47934,no rank,Dinophyceae,Dinophysiales,Dinophysiaceae,Dinophysis,no rank,Dinoflagellates
+66468,no rank,Dinophyceae,Peridiniales,Heterocapsaceae,Heterocapsa,no rank,Dinoflagellates
+66791,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Gonyaulax,no rank,Dinoflagellates
+71861,no rank,Dinophyceae,Peridiniales,Thoracosphaeraceae,Scrippsiella,no rank,Dinoflagellates
+73915,no rank,Dinophyceae,Gonyaulacales,Goniodomataceae,Pyrodinium,no rank,Dinoflagellates
+88552,Dinoflagellata,Dinophyceae,Syndiniales,Amoebophryaceae,Amoebophrya,no rank,Dinoflagellates
+89957,no rank,Dinophyceae,Suessiales,Suessiaceae,Polarella,no rank,Dinoflagellates
+89963,no rank,Dinophyceae,Peridiniales,Heterocapsaceae,Heterocapsa,no rank,Dinoflagellates
+104179,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,no rank,Dinoflagellates
+109239,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+133427,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Protoceratium,no rank,Dinoflagellates
+143672,no rank,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Akashiwo,no rank,Dinoflagellates
+156230,no rank,Dinophyceae,Gymnodiniales,Kareniaceae,Karenia,no rank,Dinoflagellates
+160604,no rank,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Amphidinium,no rank,Dinoflagellates
+160619,no rank,Dinophyceae,Peridiniales,Peridiniaceae,Kryptoperidinium,no rank,Dinoflagellates
+160621,no rank,Dinophyceae,Gonyaulacales,no rank,Lingulodinium,no rank,Dinoflagellates
+174948,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,no rank,Dinoflagellates
+192219,no rank,Dinophyceae,Peridiniales,Heterocapsaceae,Heterocapsa,no rank,Dinoflagellates
+210733,no rank,Dinophyceae,Peridiniales,Podolampaceae,Lessardia,no rank,Dinoflagellates
+230996,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,no rank,Dinoflagellates
+268820,no rank,Dinophyceae,Peridiniales,Peridiniaceae,Peridinium,no rank,Dinoflagellates
+268821,no rank,Dinophyceae,Peridiniales,Thoracosphaeraceae,Scrippsiella,no rank,Dinoflagellates
+285029,no rank,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Togula,no rank,Dinoflagellates
+285985,no rank,Dinophyceae,Gymnodiniales,Gymnodiniaceae,Gyrodinium,no rank,Dinoflagellates
+293213,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,Symbiodinium sp. clade C,Dinoflagellates
+311494,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+327968,no rank,Dinophyceae,Gonyaulacales,Gonyaulacaceae,Alexandrium,no rank,Dinoflagellates
+377605,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,Symbiodinium sp. clade C,Dinoflagellates
+400756,no rank,Dinophyceae,Peridiniales,Peridiniaceae,Durinskia,no rank,Dinoflagellates
+407301,no rank,Dinophyceae,Gymnodiniales,Kareniaceae,Karlodinium,no rank,Dinoflagellates
+439317,no rank,Dinophyceae,Gonyaulacales,Goniodomataceae,Gambierdiscus,no rank,Dinoflagellates
+447022,no rank,Dinophyceae,Peridiniales,Thoracosphaeraceae,Scrippsiella,no rank,Dinoflagellates
+462645,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,no rank,Dinoflagellates
+631057,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,no rank,Dinoflagellates
+632150,Dinoflagellata,Dinophyceae,Gonyaulacales,Amphidomataceae,Azadinium,no rank,Dinoflagellates
+993574,no rank,Dinophyceae,Suessiales,Symbiodiniaceae,Symbiodinium,Symbiodinium sp. clade A,Dinoflagellates
+1333877,no rank,Dinophyceae,Peridiniales,Endodiniaceae,Brandtodinium,no rank,Dinoflagellates
+73025,Euglenida,no rank,Eutreptiales,no rank,Eutreptiella,no rank,Euglenids
+312471,no rank,no rank,Kinetoplastida,Bodonidae,Neobodo,no rank,Euglenids
+145522,Eustigmatophyceae,no rank,Eustigmatales,Monodopsidaceae,Nannochloropsis,no rank,Eustigmatophytes
+29189,no rank,no rank,Rotaliida,Rotaliidae,no rank,no rank,Foraminifera
+37353,no rank,no rank,Rotaliida,Rosalinidae,no rank,no rank,Foraminifera
+126664,no rank,no rank,Miliolida,Soritidae,Sorites,no rank,Foraminifera
+933848,no rank,no rank,Rotaliida,Elphidiidae,Elphidium,no rank,Foraminifera
+38269,no rank,Glaucocystophyceae,Gloeochaetales,Gloeochaetaceae,Gloeochaete,no rank,Glaucophytes
+2832,no rank,no rank,Pavlovales,Pavlovaceae,Pavlova,no rank,Haptophytes
+2903,no rank,no rank,Isochrysidales,Noelaerhabdaceae,Emiliania,no rank,Haptophytes
+13221,no rank,no rank,Coccolithales,Pleurochrysidaceae,Pleurochrysis,no rank,Haptophytes
+33656,no rank,no rank,Phaeocystales,Phaeocystaceae,Phaeocystis,no rank,Haptophytes
+33657,no rank,no rank,Phaeocystales,Phaeocystaceae,Phaeocystis,no rank,Haptophytes
+37098,no rank,no rank,Isochrysidales,Isochrysidaceae,Isochrysis,no rank,Haptophytes
+37099,no rank,no rank,Isochrysidales,Isochrysidaceae,Isochrysis,no rank,Haptophytes
+38817,no rank,no rank,Isochrysidales,Noelaerhabdaceae,Gephyrocapsa,no rank,Haptophytes
+40639,no rank,no rank,Isochrysidales,Isochrysidaceae,Isochrysis,no rank,Haptophytes
+44452,no rank,no rank,Pavlovales,Pavlovaceae,Pavlova,no rank,Haptophytes
+72548,no rank,no rank,Prymnesiales,Prymnesiaceae,Prymnesium,no rank,Haptophytes
+97485,no rank,no rank,Prymnesiales,Prymnesiaceae,Prymnesium,no rank,Haptophytes
+97495,no rank,no rank,Prymnesiales,Prymnesiaceae,Imantonia,no rank,Haptophytes
+118079,no rank,no rank,Phaeocystales,Phaeocystaceae,Phaeocystis,no rank,Haptophytes
+119497,no rank,no rank,Pavlovales,Pavlovaceae,Exanthemachrysis,no rank,Haptophytes
+127549,no rank,no rank,Coccolithales,Calcidiscaceae,Calcidiscus,no rank,Haptophytes
+156173,no rank,no rank,Prymnesiales,Prymnesiaceae,Haptolina,no rank,Haptophytes
+156174,no rank,no rank,Prymnesiales,Prymnesiaceae,Haptolina,no rank,Haptophytes
+221442,no rank,no rank,Coccolithales,Coccolithaceae,Coccolithus,no rank,Haptophytes
+280463,no rank,no rank,Isochrysidales,Noelaerhabdaceae,Emiliania,Emiliania huxleyi,Haptophytes
+298111,no rank,no rank,Pavlovales,Pavlovaceae,Pavlova,no rank,Haptophytes
+412157,no rank,no rank,Prymnesiales,Chrysochromulinaceae,Chrysochromulina,no rank,Haptophytes
+418940,no rank,no rank,Coccosphaerales,no rank,Pontosphaeraceae,no rank,Haptophytes
+483367,no rank,no rank,Pavlovales,no rank,Pavlova,no rank,Haptophytes
+5762,no rank,Heterolobosea,Schizopyrenida,Vahlkampfiidae,Naegleria,no rank,Heteroloboseans
+4773,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Schizochytrium,no rank,Labyrinthulids
+87102,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Aurantiochytrium,no rank,Labyrinthulids
+96639,no rank,Labyrinthulomycetes,no rank,no rank,no rank,no rank,Labyrinthulids
+215587,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Aplanochytrium,no rank,Labyrinthulids
+627963,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Aplanochytrium,no rank,Labyrinthulids
+702273,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Aplanochytrium,Aplanochytrium kerguelense,Labyrinthulids
+876976,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Schizochytrium,Schizochytrium aggregatum,Labyrinthulids
+1112570,no rank,Labyrinthulomycetes,no rank,Thraustochytriaceae,Thraustochytrium,no rank,Labyrinthulids
+1229909,Thaumarchaeota,no rank,Nitrosopumilales,Nitrosopumilaceae,Nitrosopumilus,no rank,Archaea
+93060,Cyanobacteria,no rank,Prochlorales,Prochlorococcaceae,Prochlorococcus,Prochlorococcus marinus,Bacteria
+939195,Actinobacteria,Actinobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007124,Marinimicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+44446,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Pseudo-nitzschia,no rank,Diatoms
+49240,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+291029,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Thalassiosira,no rank,Diatoms
+655751,Bacillariophyta,Coscinodiscophyceae,Chaetocerotales,Chaetocerotaceae,Chaetoceros,no rank,Diatoms
+180227,no rank,no rank,no rank,Paramoebidae,Paramoeba,no rank,Amoeboa
+905826,Thaumarchaeota,no rank,no rank,no rank,no rank,no rank,Bacteria
+939857,Marinimicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1007120,Proteobacteria,Gammaproteobacteria,no rank,no rank,no rank,no rank,Bacteria
+1007121,Marinimicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+1007122,Marinimicrobia,no rank,no rank,no rank,no rank,no rank,Bacteria
+33651,no rank,no rank,no rank,no rank,no rank,no rank,Bicosoecids
+91990,Bolidophyceae,no rank,no rank,no rank,no rank,no rank,Bolidophytes
+91992,Bolidophyceae,no rank,no rank,no rank,Bolidomonas,no rank,Bolidophytes
+29199,no rank,no rank,no rank,no rank,Chlorarachnion,no rank,Chlorarachniophytes
+77921,no rank,Glaucocystophyceae,no rank,no rank,no rank,no rank,Chlorarachniophytes
+91324,no rank,no rank,no rank,no rank,Lotharella,no rank,Chlorarachniophytes
+168855,no rank,no rank,no rank,no rank,Amorphochlora,no rank,Chlorarachniophytes
+227086,no rank,no rank,no rank,no rank,Bigelowiella,no rank,Chlorarachniophytes
+552665,no rank,no rank,no rank,no rank,Bigelowiella,no rank,Chlorarachniophytes
+629695,no rank,no rank,no rank,no rank,Gymnochlora,no rank,Chlorarachniophytes
+641309,no rank,no rank,no rank,no rank,Lotharella,no rank,Chlorarachniophytes
+753081,no rank,no rank,no rank,no rank,Bigelowiella,Bigelowiella natans,Chlorarachniophytes
+348535,Chromerida,no rank,no rank,no rank,no rank,no rank,Chromera
+505693,Chromerida,no rank,no rank,no rank,Chromera,no rank,Chromera
+1169540,Chromerida,no rank,no rank,no rank,Vitrella,Vitrella brassicaformis,Chromera
+187299,no rank,no rank,no rank,no rank,no rank,no rank,Ciliates
+197538,no rank,Spirotrichea,no rank,Strombidiidae,Strombidium,no rank,Ciliates
+223996,no rank,Spirotrichea,no rank,no rank,Protocruzia,no rank,Ciliates
+1082188,no rank,Spirotrichea,no rank,Strombidiidae,Strombidium,no rank,Ciliates
+200890,no rank,no rank,no rank,Paramoebidae,no rank,no rank,Dactylopodids
+218659,no rank,no rank,no rank,Vexilliferidae,no rank,no rank,Dactylopodids
+262233,Haplosporidia,no rank,no rank,Haplosporidiidae,Minchinia,no rank,Haplosporidia
+259385,no rank,no rank,no rank,no rank,Chrysoculter,no rank,Haptophytes
+63605,no rank,Heterolobosea,no rank,no rank,Percolomonas,no rank,Heteroloboseans
+91329,no rank,no rank,no rank,no rank,no rank,no rank,no rank
+100272,no rank,no rank,no rank,no rank,no rank,no rank,no rank
+136419,no rank,no rank,no rank,no rank,no rank,no rank,no rank
+274854,Euryarchaeota,no rank,no rank,no rank,no rank,no rank,no rank
+485358,no rank,Oligohymenophorea,no rank,no rank,Aristerostoma,no rank,no rank
+498012,no rank,no rank,no rank,no rank,Trichosphaerium,no rank,no rank
+552666,no rank,no rank,no rank,no rank,Partenskyella,no rank,no rank
+652834,no rank,no rank,no rank,no rank,Palpitomonas,no rank,no rank
+1042828,no rank,no rank,no rank,no rank,Stygamoeba,no rank,no rank
+1078864,no rank,no rank,no rank,no rank,Stereomyxa,no rank,no rank
+1131268,Euryarchaeota,no rank,no rank,no rank,no rank,no rank,no rank
+1181717,no rank,Synchromophyceae,no rank,no rank,Synchroma,no rank,no rank
+114041,no rank,Pelagophyceae,no rank,no rank,no rank,no rank,Pelagophytes
+483370,no rank,Pelagophyceae,no rank,no rank,no rank,no rank,Pelagophytes
+1462469,no rank,Pelagophyceae,no rank,no rank,no rank,no rank,Pelagophytes
+136452,no rank,no rank,no rank,Echinamoebidae,Filamoeba,no rank,Tubulinids
+95228,no rank,no rank,no rank,Vannellidae,no rank,no rank,Vannellids
+498008,no rank,no rank,no rank,Vannellidae,Pessonella,no rank,Vannellids
+67593,no rank,Oomycetes,Peronosporales,no rank,Phytophthora,no rank,Oomycetes
+164328,no rank,Oomycetes,Peronosporales,no rank,Phytophthora,no rank,Oomycetes
+403677,no rank,Oomycetes,Peronosporales,no rank,Phytophthora,Phytophthora infestans,Oomycetes
+622258,no rank,Oomycetes,Peronosporales,no rank,Phytophthora,Phytophthora cinnamomi,Oomycetes
+763924,no rank,Oomycetes,Peronosporales,no rank,Phytophthora,Phytophthora capsici,Oomycetes
+321610,no rank,no rank,Perkinsida,Perkinsidae,Perkinsus,Perkinsus chesapeaki,Perkinsus
+1032511,no rank,no rank,Perkinsida,Perkinsidae,Perkinsus,Perkinsus marinus,Perkinsus
+124430,Pinguiophyceae,no rank,Pinguiochrysidales,Pinguiochrysidaceae,Phaeomonas,no rank,Pinguiophytes
+172671,Pinguiophyceae,no rank,Pinguiochrysidales,Pinguiochrysidaceae,Pinguiococcus,no rank,Pinguiophytes
+2792,no rank,Bangiophyceae,Porphyridiales,Porphyridiaceae,Porphyridium,no rank,Porphyridiophytes
+708627,no rank,Bangiophyceae,Porphyridiales,Porphyridiaceae,Timspurckia,no rank,Porphyridiophytes
+708628,no rank,Bangiophyceae,Porphyridiales,Porphyridiaceae,Erythrolobus,no rank,Porphyridiophytes
+1077150,no rank,Bangiophyceae,Porphyridiales,Porphyridiaceae,Erythrolobus,no rank,Porphyridiophytes
+3165,Chlorophyta,Chlorodendrophyceae,Chlorodendrales,Chlorodendraceae,Tetraselmis,no rank,Prasinophytes
+36882,Chlorophyta,no rank,Pyramimonadales,no rank,Pyramimonas,no rank,Prasinophytes
+36894,Chlorophyta,no rank,Pyramimonadales,no rank,Pyramimonas,no rank,Prasinophytes
+36898,Chlorophyta,no rank,Pyramimonadales,no rank,Pyramimonas,no rank,Prasinophytes
+38833,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,Micromonas,no rank,Prasinophytes
+41875,Chlorophyta,Mamiellophyceae,Mamiellales,Bathycoccaceae,Bathycoccus,no rank,Prasinophytes
+63592,Chlorophyta,Chlorodendrophyceae,Chlorodendrales,Chlorodendraceae,Tetraselmis,no rank,Prasinophytes
+70448,Chlorophyta,Mamiellophyceae,Mamiellales,Bathycoccaceae,Ostreococcus,no rank,Prasinophytes
+81844,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,Mantoniella,no rank,Prasinophytes
+195967,Chlorophyta,Mamiellophyceae,Dolichomastigales,Crustomastigaceae,Crustomastix,no rank,Prasinophytes
+195969,Chlorophyta,Mamiellophyceae,Dolichomastigales,Dolichomastigaceae,Dolichomastix,no rank,Prasinophytes
+296587,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,Micromonas,no rank,Prasinophytes
+385169,Chlorophyta,Mamiellophyceae,Mamiellales,Bathycoccaceae,Ostreococcus,no rank,Prasinophytes
+436017,Chlorophyta,Mamiellophyceae,Mamiellales,Bathycoccaceae,Ostreococcus,Ostreococcus 'lucimarinus',Prasinophytes
+548131,Chlorophyta,Mamiellophyceae,Mamiellales,Bathycoccaceae,Ostreococcus,no rank,Prasinophytes
+564608,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,Micromonas,Micromonas pusilla,Prasinophytes
+582737,Chlorophyta,Chlorodendrophyceae,Chlorodendrales,Chlorodendraceae,Tetraselmis,no rank,Prasinophytes
+1074897,Chlorophyta,Chlorodendrophyceae,Chlorodendrales,Chlorodendraceae,Tetraselmis,no rank,Prasinophytes
+1075084,Chlorophyta,Mamiellophyceae,Mamiellales,Bathycoccaceae,Bathycoccus,Bathycoccus prasinos,Prasinophytes
+1461541,Chlorophyta,no rank,Pyramimonadales,no rank,Pterosperma,no rank,Prasinophytes
+1461545,Chlorophyta,Mamiellophyceae,Mamiellales,Mamiellaceae,Mantoniella,no rank,Prasinophytes
+44440,no rank,Raphidophyceae,Chattonellales,Chattonellaceae,Chattonella,no rank,Raphidophytes
+94617,no rank,Raphidophyceae,Chattonellales,Chattonellaceae,Fibrocapsa,no rank,Raphidophytes
+536046,no rank,Raphidophyceae,Chattonellales,Chattonellaceae,Heterosigma,Heterosigma akashiwo,Raphidophytes
+536047,no rank,Raphidophyceae,Chattonellales,Chattonellaceae,Heterosigma,Heterosigma akashiwo,Raphidophytes
+31354,no rank,Compsopogonophyceae,Compsopogonales,Compsopogonaceae,Compsopogon,no rank,Red Algae
+753684,no rank,Compsopogonophyceae,Erythropeltidales,Erythrotrichiaceae,Madagascaria,no rank,Red Algae
+38298,no rank,Rhodellophyceae,Rhodellales,Rhodellaceae,Rhodella,no rank,Rhodophytes
+101924,no rank,Stylonematophyceae,Stylonematales,Stylonemataceae,Rhodosorus,no rank,Rhodophytes
+2988,no rank,Synurophyceae,Synurales,Mallomonadaceae,no rank,no rank,Synurophytes
+39354,Streptophyta,no rank,Lamiales,Lamiaceae,Perovskia,no rank,Tracheophytes
+554065,Chlorophyta,Trebouxiophyceae,Chlorellales,Chlorellaceae,Chlorella,no rank,Trebouxiophytes
+1461547,Chlorophyta,Trebouxiophyceae,Microthamniales,no rank,Stichococcus,no rank,Trebouxiophytes
+1486928,no rank,no rank,Arcellinida,Difflugiidae,no rank,no rank,Tubulinids
+109269,Xanthophyceae,no rank,Vaucheriales,Vaucheriaceae,Vaucheria,no rank,Xanthophytes
+172717,Bolidophyceae,no rank,no rank,no rank,Bolidomonas,Bolidomonas pacifica,Bolidophytes
